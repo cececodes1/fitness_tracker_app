@@ -1,0 +1,9 @@
+.exercise-list {
+    max-height: 400px;
+    overflow-y: auto;
+  }
+  
+  .card {
+    background-color: #ffffff; /* White background for cards */
+    border: 1px solid #dee2e6; /* Light border */
+  }
